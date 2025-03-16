@@ -14,7 +14,7 @@ Developed as part of the **Turkcell Geleceği Yazan Kadınlar** program, and **s
 ## 🚀 Deployment  
 The application is live on **Hugging Face Spaces!** Try it here:  
 
-👉 **[Boston Housing Analysis - Hugging Face](https://huggingface.co/spaces/Sarizeybekk/boston-housing-analysis)**  
+👉 **[Boston Housing Analysis - Hugging Face](https://huggingface.co/spaces/sarizeybek/boston-housing-analysis)**  
 
 ## 📂 Files  
 - `boston_housing_app.py` → Streamlit app  
