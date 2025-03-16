@@ -3,7 +3,7 @@
 This project is a **Streamlit web application** for **Boston Housing Dataset** analysis.  
 It includes **data preprocessing, missing value handling, visualizations, and insights.**  
 
-Developed as part of the **Turkcell Geleceği Yazan Kadınlar** program, and **still being improved.** 🚀  
+Developed as part of the **Turkcell Geleceği Yazan Kadınlar** program, and **still being improved.** 
 
 ## Features  
 - **Handles missing values** using mean, median, and KNN imputation  
