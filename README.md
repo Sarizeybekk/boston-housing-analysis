@@ -27,5 +27,5 @@ To run the project locally:
 ```bash
 git clone https://github.com/Sarizeybekk/boston-housing-analysis.git
 cd boston-housing-analysis
-pip install -r requirements.txt
 streamlit run boston_housing_app.py
+
