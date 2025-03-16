@@ -1,4 +1,4 @@
-# Boston Housing Analysis - Streamlit App  
+# Boston Housing Analysis 
 
 This project is a **Streamlit web application** for **Boston Housing Dataset** analysis.  
 It includes **data preprocessing, missing value handling, visualizations, and insights.**  
