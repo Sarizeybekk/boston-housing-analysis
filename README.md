@@ -15,6 +15,7 @@ Developed as part of the **Turkcell Geleceği Yazan Kadınlar** program, and **s
 The application is live on **Hugging Face Spaces!** Try it here:  
 
 👉 **[Boston Housing Analysis - Hugging Face](https://huggingface.co/spaces/sarizeybek/boston-housing-analysis)**  
+![image](https://github.com/user-attachments/assets/63ff0c4a-b6b0-46d8-b078-3411a1a3a49f)
 
 
 ## Installation & Run Locally  
